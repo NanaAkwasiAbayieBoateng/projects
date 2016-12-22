@@ -1,0 +1,2438 @@
+From: "Saved by Windows Internet Explorer 10"
+Subject: SAS Output
+Date: Fri, 5 Sep 2014 16:40:50 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CFC928.26E83260"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CFC928.26E83260
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Users\nboateng\sashtml9.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content=3D"IE=3D5.0000" =
+http-equiv=3D"X-UA-Compatible">
+<TITLE>SAS Output</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 10.00.9200.16921">
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-type>
+<STYLE type=3Dtext/css>.aftercaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; PADDING-TOP: 4pt; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.batch {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: 'SAS =
+Monospace', 'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px =
+solid; BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; PADDING-BOTTOM: 7px; FONT-STYLE: =
+normal; PADDING-TOP: 7px; PADDING-LEFT: 7px; BORDER-SPACING: 1px; =
+BORDER-LEFT: #c1c1c1 1px solid; PADDING-RIGHT: 7px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.beforecaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.body {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; MARGIN-LEFT: =
+8px; BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.bodydate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.bycontentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.byline {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.bylinecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.caption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.cell {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.container {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contentprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contents {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.contentsdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contenttitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.continued {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: left; =
+BORDER-SPACING: 0px; WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.data {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.dataemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.dataempty {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datafixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: =
+#c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: =
+#c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datastrong {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.datastrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.date {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.document {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #800080
+}
+.errorbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.errorcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.errorcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.extendedpage {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 1pt solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 1pt solid; =
+BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; TEXT-ALIGN: center; BORDER-LEFT: #000000 1pt solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.fatalcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.folderaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.footer {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasis {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.footeremphasisfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.footerempty {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #edf2f9
+}
+.footerstrong {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerstrongfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.frame {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.graph {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.header {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.headersandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.index {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.indexaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.indextitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.layoutcontainer {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.layoutregion {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.list {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.list9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: left; BACKGROUND-COLOR: #fafbfe
+}
+.listitem {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.listitem9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.note {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notebanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.notecontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notecontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.output {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.pageno {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pages {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.pagesdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; WIDTH: 100%; =
+BACKGROUND-COLOR: #fafbfe
+}
+.pagesitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.pagesproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagesprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagestitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.paragraph {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.parskip {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: bold; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BORDER-LEFT: #000000 0px solid
+}
+.prepage {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.proctitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.proctitlefixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.rowfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasis {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowfooteremphasisfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: italic; =
+BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterempty {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterstrong {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterstrongfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheader {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.systemfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle10 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle2 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle3 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle4 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle5 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle6 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle7 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle8 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle9 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systitleandfootercontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.table {
+	BORDER-TOP: #c1c1c1 1px solid; BORDER-RIGHT: #c1c1c1 0px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 0px solid; =
+BORDER-SPACING: 0px; BORDER-LEFT: #c1c1c1 1px solid
+}
+.top_stacked_value {
+	PADDING-BOTTOM: 1px
+}
+.middle_stacked_value {
+	PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+.bottom_stacked_value {
+	PADDING-TOP: 1px
+}
+.titleandnotecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 0px solid; =
+WIDTH: 100%; BACKGROUND-COLOR: #fafbfe
+}
+.titlesandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.usertext {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.warnbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.warncontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warncontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.l {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.d {
+	TEXT-ALIGN: right
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.t {
+	VERTICAL-ALIGN: top
+}
+.m {
+	VERTICAL-ALIGN: middle
+}
+.b {
+	VERTICAL-ALIGN: bottom
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TH {
+	VERTICAL-ALIGN: top
+}
+.stacked_cell {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px
+}
+</STYLE>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY class=3Dbody onload=3Dstartup() onunload=3Dshutdown()>
+<SCRIPT language=3Djavascript type=3Dtext/javascript>
+<!--=20
+var _info =3D navigator.userAgent
+var _ie =3D (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 =3D _info.indexOf("x64") > 0
+
+//-->
+</SCRIPT>
+
+<DIV class=3Dbranch><A name=3DIDX></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The FREQ Procedure</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE summary=3D"Page Layout">
+  <TBODY>
+  <TR>
+    <TD class=3D"c t">
+      <DIV align=3Dcenter>
+      <TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5=20
+      rules=3Dall summary=3D"Procedure Freq: Cross-Tabular Freq Table" =
+frame=3Dbox>
+        <COLGROUP>
+        <COL></COLGROUP>
+        <COLGROUP></COLGROUP>
+        <TBODY>
+        <TR>
+          <TH class=3D"l t stacked_cell header" scope=3Dcol>
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TH class=3D"l t header top_stacked_value"=20
+              scope=3Dcol>Frequency</TH></TR>
+              <TR>
+                <TH class=3D"l t header middle_stacked_value"=20
+                scope=3Dcol>Percent</TH></TR>
+              <TR>
+                <TH class=3D"l t header middle_stacked_value" =
+scope=3Dcol>Row=20
+                Pct</TH></TR>
+              <TR>
+                <TH class=3D"l t header bottom_stacked_value" =
+scope=3Dcol>Col=20
+                =
+Pct</TH></TR></TBODY></TABLE></TH></TR></TBODY></TABLE></DIV></TD>
+    <TD>
+      <DIV align=3Dcenter>
+      <TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5=20
+      rules=3Dall summary=3D"Procedure Freq: Cross-Tabular Freq Table" =
+frame=3Dbox>
+        <COLGROUP>
+        <COL></COLGROUP>
+        <COLGROUP>
+        <COL>
+        <COL>
+        <COL></COLGROUP>
+        <THEAD>
+        <TR>
+          <TH class=3D"c header" colSpan=3D4=20
+            =
+scope=3Dcolgroup>Table&nbsp;of&nbsp;Gender&nbsp;by&nbsp;Complications_Y_N=
+</TH></TR>
+        <TR>
+          <TH class=3D"c b header" rowSpan=3D2 =
+scope=3Dcol>Gender(Gender)</TH>
+          <TH class=3D"c b header" colSpan=3D3=20
+            =
+scope=3Dcolgroup>Complications_Y_N(Complications<BR>Y/N)</TH></TR>
+        <TR>
+          <TH class=3D"r header" scope=3Dcol>Y</TH>
+          <TH class=3D"r header" scope=3Dcol>N</TH>
+          <TH class=3D"r header" scope=3Dcol>Total</TH></TR></THEAD>
+        <TBODY>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>F </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">54</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">29.83</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">62.79</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">50.94</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">32</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">17.68</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">37.21</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">42.67</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">86</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">47.51</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>M </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">52</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">28.73</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">54.74</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">49.06</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">43</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">23.76</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">45.26</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">57.33</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">95</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">52.49</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>Median </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>Mean </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>St Deviation</TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t header" scope=3Dcol>Total </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">106</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">58.56</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">75</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">41.44</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">181</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">100.00</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"c header" colSpan=3D4=20
+            =
+scope=3Dcolgroup>Frequency&nbsp;Missing&nbsp;=3D&nbsp;4</TH></TR></TBODY>=
+</TABLE></DIV></TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Statistics for Table of Gender by=20
+Complications_Y_N</DIV>
+<P><BR>
+<P>
+<DIV class=3D"c proctitle">(Rows and Columns with Zero Totals =
+Excluded)</DIV>
+<P><A name=3DIDX1></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Freq: Chi-Square Tests" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Statistic</TH>
+    <TH class=3D"r b header" scope=3Dcol>DF</TH>
+    <TH class=3D"r b header" scope=3Dcol>Value</TH>
+    <TH class=3D"r b header" scope=3Dcol>Prob</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Chi-Square</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.2065</TD>
+    <TD class=3D"r data">0.2720</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Likelihood Ratio =
+Chi-Square</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.2092</TD>
+    <TD class=3D"r data">0.2715</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Continuity Adj. =
+Chi-Square</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.8975</TD>
+    <TD class=3D"r data">0.3435</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Mantel-Haenszel =
+Chi-Square</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">1.1999</TD>
+    <TD class=3D"r data">0.2733</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Phi Coefficient</TH>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">0.0816</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Contingency Coefficient</TH>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">0.0814</TD>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Cramer's V</TH>
+    <TD class=3D"r data">&nbsp;</TD>
+    <TD class=3D"r data">0.0816</TD>
+    <TD class=3D"r =
+data">&nbsp;</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX2></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Freq: Fisher's Exact Test" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>Fisher's Exact =
+
+  Test</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Cell (1,1) Frequency (F)</TH>
+    <TD class=3D"r data">54</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Left-sided Pr &lt;=3D F</TH>
+    <TD class=3D"r data">0.8944</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Right-sided Pr &gt;=3D F</TH>
+    <TD class=3D"r data">0.1718</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>&nbsp;</TH>
+    <TD class=3D"r data">&nbsp;</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Table Probability (P)</TH>
+    <TD class=3D"r data">0.0661</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Two-sided Pr &lt;=3D P</TH>
+    <TD class=3D"r =
+data">0.2932</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX3></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Freq: McNemar's Test" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>McNemar's=20
+  Test</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Statistic (S)</TH>
+    <TD class=3D"r data">4.7619</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>DF</TH>
+    <TD class=3D"r data">1</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Pr &gt; S</TH>
+    <TD class=3D"r =
+data">0.0291</TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX4></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Freq: Simple Kappa Coefficient" frame=3Dbox>
+  <COLGROUP>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D2 scope=3Dcolgroup>Simple Kappa=20
+  Coefficient</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Kappa</TH>
+    <TD class=3D"r data">0.0797</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>ASE</TH>
+    <TD class=3D"r data">0.0722</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>95% Lower Conf Limit</TH>
+    <TD class=3D"r data" noWrap>-0.0619</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>95% Upper Conf Limit</TH>
+    <TD class=3D"r =
+data">0.2212</TD></TR></TBODY></TABLE></DIV></DIV><BR><BR>
+<P>
+<DIV class=3D"c proctitle">Effective Sample Size =3D 181<BR>Frequency =
+Missing =3D=20
+4</DIV>
+<P><A name=3DIDX5></A>
+<DIV>
+<DIV class=3Dc><IMG class=3Dc style=3D"HEIGHT: 480px; WIDTH: 640px" =
+border=3D0=20
+alt=3D"Agreement Plot of Gender and Complications_Y_N"=20
+src=3D"file:///C:/Users/nboateng/AgreePlot2.png"> </DIV></DIV><BR></DIV>
+<DIV class=3Dbranch>
+<P style=3D"PAGE-BREAK-AFTER: always"><BR></P>
+<HR SIZE=3D3>
+<A name=3DIDX6></A>
+<TABLE class=3Dsystitleandfootercontainer cellSpacing=3D1 =
+cellPadding=3D1 rules=3Dnone=20
+width=3D"100%" summary=3D"Page Layout" border=3D0 frame=3Dvoid>
+  <TBODY>
+  <TR>
+    <TD class=3D"c systemtitle">The SAS =
+System</TD></TR></TBODY></TABLE><BR>
+<DIV class=3D"c proctitle">The FREQ Procedure</DIV>
+<P>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Freq: One-Way Frequencies" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5 =
+scope=3Dcolgroup>Gender</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Gender</TH>
+    <TH class=3D"r b header" scope=3Dcol>Frequency</TH>
+    <TH class=3D"r b header" scope=3Dcol>Percent</TH>
+    <TH class=3D"r b header" scope=3Dcol>Cumulative<BR>Frequency</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Cumulative<BR>Percent</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>F</TH>
+    <TD class=3D"r data">86</TD>
+    <TD class=3D"r data">46.74</TD>
+    <TD class=3D"r data">86</TD>
+    <TD class=3D"r data">46.74</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>M</TH>
+    <TD class=3D"r data">95</TD>
+    <TD class=3D"r data">51.63</TD>
+    <TD class=3D"r data">181</TD>
+    <TD class=3D"r data">98.37</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Median</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.54</TD>
+    <TD class=3D"r data">182</TD>
+    <TD class=3D"r data">98.91</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Mean</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.54</TD>
+    <TD class=3D"r data">183</TD>
+    <TD class=3D"r data">99.46</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>St Deviation</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.54</TD>
+    <TD class=3D"r data">184</TD>
+    <TD class=3D"r data">100.00</TD></TR></TBODY></TABLE></DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Frequency Missing =3D 1</DIV>
+<P></P></DIV><BR><A name=3DIDX7></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Freq: One-Way Frequencies" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5 scope=3Dcolgroup>Complications =
+Y/N</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Complications_Y_N</TH>
+    <TH class=3D"r b header" scope=3Dcol>Frequency</TH>
+    <TH class=3D"r b header" scope=3Dcol>Percent</TH>
+    <TH class=3D"r b header" scope=3Dcol>Cumulative<BR>Frequency</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Cumulative<BR>Percent</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Y</TH>
+    <TD class=3D"r data">106</TD>
+    <TD class=3D"r data">58.56</TD>
+    <TD class=3D"r data">106</TD>
+    <TD class=3D"r data">58.56</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>N</TH>
+    <TD class=3D"r data">75</TD>
+    <TD class=3D"r data">41.44</TD>
+    <TD class=3D"r data">181</TD>
+    <TD class=3D"r data">100.00</TD></TR></TBODY></TABLE></DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Frequency Missing =3D 4</DIV>
+<P></P></DIV><BR><A name=3DIDX8></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Freq: One-Way Frequencies" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5 scope=3Dcolgroup>Type of =
+Gastrostomy</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Type_of_Gastrostomy</TH>
+    <TH class=3D"r b header" scope=3Dcol>Frequency</TH>
+    <TH class=3D"r b header" scope=3Dcol>Percent</TH>
+    <TH class=3D"r b header" scope=3Dcol>Cumulative<BR>Frequency</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Cumulative<BR>Percent</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Endoscopic</TH>
+    <TD class=3D"r data">59</TD>
+    <TD class=3D"r data">32.60</TD>
+    <TD class=3D"r data">59</TD>
+    <TD class=3D"r data">32.60</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Open</TH>
+    <TD class=3D"r data">110</TD>
+    <TD class=3D"r data">60.77</TD>
+    <TD class=3D"r data">169</TD>
+    <TD class=3D"r data">93.37</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Laparoscopic</TH>
+    <TD class=3D"r data">12</TD>
+    <TD class=3D"r data">6.63</TD>
+    <TD class=3D"r data">181</TD>
+    <TD class=3D"r data">100.00</TD></TR></TBODY></TABLE></DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Frequency Missing =3D 4</DIV>
+<P></P></DIV><BR><A name=3DIDX9></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Freq: One-Way Frequencies" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5 scope=3Dcolgroup>Device (button =
+vs=20
+  tube)</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Device__button_vs_tube_</TH>
+    <TH class=3D"r b header" scope=3Dcol>Frequency</TH>
+    <TH class=3D"r b header" scope=3Dcol>Percent</TH>
+    <TH class=3D"r b header" scope=3Dcol>Cumulative<BR>Frequency</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Cumulative<BR>Percent</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Button</TH>
+    <TD class=3D"r data">42</TD>
+    <TD class=3D"r data">22.83</TD>
+    <TD class=3D"r data">42</TD>
+    <TD class=3D"r data">22.83</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Tube</TH>
+    <TD class=3D"r data">139</TD>
+    <TD class=3D"r data">75.54</TD>
+    <TD class=3D"r data">181</TD>
+    <TD class=3D"r data">98.37</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Median</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.54</TD>
+    <TD class=3D"r data">182</TD>
+    <TD class=3D"r data">98.91</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>Mean</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.54</TD>
+    <TD class=3D"r data">183</TD>
+    <TD class=3D"r data">99.46</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>St Deviation</TH>
+    <TD class=3D"r data">1</TD>
+    <TD class=3D"r data">0.54</TD>
+    <TD class=3D"r data">184</TD>
+    <TD class=3D"r data">100.00</TD></TR></TBODY></TABLE></DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Frequency Missing =3D 1</DIV>
+<P></P></DIV><BR><A name=3DIDX10></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5 rules=3Dall=20
+summary=3D"Procedure Freq: One-Way Frequencies" frame=3Dbox>
+  <COLGROUP>
+  <COL></COLGROUP>
+  <COLGROUP>
+  <COL>
+  <COL>
+  <COL>
+  <COL></COLGROUP>
+  <THEAD>
+  <TR>
+    <TH class=3D"c b header" colSpan=3D5 scope=3Dcolgroup>Short or Long =
+term</TH></TR>
+  <TR>
+    <TH class=3D"l b header" scope=3Dcol>Short_or_Long_term</TH>
+    <TH class=3D"r b header" scope=3Dcol>Frequency</TH>
+    <TH class=3D"r b header" scope=3Dcol>Percent</TH>
+    <TH class=3D"r b header" scope=3Dcol>Cumulative<BR>Frequency</TH>
+    <TH class=3D"r b header" =
+scope=3Dcol>Cumulative<BR>Percent</TH></TR></THEAD>
+  <TBODY>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>long</TH>
+    <TD class=3D"r data">79</TD>
+    <TD class=3D"r data">74.53</TD>
+    <TD class=3D"r data">79</TD>
+    <TD class=3D"r data">74.53</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>short;long</TH>
+    <TD class=3D"r data">11</TD>
+    <TD class=3D"r data">10.38</TD>
+    <TD class=3D"r data">90</TD>
+    <TD class=3D"r data">84.91</TD></TR>
+  <TR>
+    <TH class=3D"l rowheader" scope=3Drow>short</TH>
+    <TD class=3D"r data">16</TD>
+    <TD class=3D"r data">15.09</TD>
+    <TD class=3D"r data">106</TD>
+    <TD class=3D"r data">100.00</TD></TR></TBODY></TABLE></DIV><BR>
+<P>
+<DIV class=3D"c proctitle">Frequency Missing =3D 79</DIV>
+<P></P></DIV><BR><A name=3DIDX11></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE summary=3D"Page Layout">
+  <TBODY>
+  <TR>
+    <TD class=3D"c t">
+      <DIV align=3Dcenter>
+      <TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5=20
+      rules=3Dall summary=3D"Procedure Freq: Cross-Tabular Freq Table" =
+frame=3Dbox>
+        <COLGROUP>
+        <COL></COLGROUP>
+        <COLGROUP></COLGROUP>
+        <TBODY>
+        <TR>
+          <TH class=3D"l t stacked_cell header" scope=3Dcol>
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TH class=3D"l t header top_stacked_value"=20
+              scope=3Dcol>Frequency</TH></TR>
+              <TR>
+                <TH class=3D"l t header middle_stacked_value"=20
+                scope=3Dcol>Percent</TH></TR>
+              <TR>
+                <TH class=3D"l t header middle_stacked_value" =
+scope=3Dcol>Row=20
+                Pct</TH></TR>
+              <TR>
+                <TH class=3D"l t header bottom_stacked_value" =
+scope=3Dcol>Col=20
+                =
+Pct</TH></TR></TBODY></TABLE></TH></TR></TBODY></TABLE></DIV></TD>
+    <TD>
+      <DIV align=3Dcenter>
+      <TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5=20
+      rules=3Dall summary=3D"Procedure Freq: Cross-Tabular Freq Table" =
+frame=3Dbox>
+        <COLGROUP>
+        <COL></COLGROUP>
+        <COLGROUP>
+        <COL>
+        <COL>
+        <COL>
+        <COL></COLGROUP>
+        <THEAD>
+        <TR>
+          <TH class=3D"c header" colSpan=3D5=20
+            =
+scope=3Dcolgroup>Table&nbsp;of&nbsp;Complications_Y_N&nbsp;by&nbsp;Short_=
+or_Long_term</TH></TR>
+        <TR>
+          <TH class=3D"c b header" rowSpan=3D2=20
+            scope=3Dcol>Complications_Y_N(Complications<BR>Y/N)</TH>
+          <TH class=3D"c b header" colSpan=3D4=20
+            scope=3Dcolgroup>Short_or_Long_term(Short or Long =
+term)</TH></TR>
+        <TR>
+          <TH class=3D"r header" scope=3Dcol>long</TH>
+          <TH class=3D"r header" scope=3Dcol>short;long</TH>
+          <TH class=3D"r header" scope=3Dcol>short</TH>
+          <TH class=3D"r header" scope=3Dcol>Total</TH></TR></THEAD>
+        <TBODY>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>Y </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">79</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">74.53</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">74.53</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">100.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">11</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">10.38</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">10.38</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">100.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">16</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">15.09</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">15.09</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">100.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">106</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">100.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>N </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t header" scope=3Dcol>Total</TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">79</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">74.53</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">11</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">10.38</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">16</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">15.09</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">106</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">100.00</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"c header" colSpan=3D5=20
+            =
+scope=3Dcolgroup>Frequency&nbsp;Missing&nbsp;=3D&nbsp;79</TH></TR></TBODY=
+></TABLE></DIV></TD></TR></TBODY></TABLE></DIV></DIV><BR><A=20
+name=3DIDX12></A>
+<DIV>
+<DIV align=3Dcenter>
+<TABLE summary=3D"Page Layout">
+  <TBODY>
+  <TR>
+    <TD class=3D"c t">
+      <DIV align=3Dcenter>
+      <TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5=20
+      rules=3Dall summary=3D"Procedure Freq: Cross-Tabular Freq Table" =
+frame=3Dbox>
+        <COLGROUP>
+        <COL></COLGROUP>
+        <COLGROUP></COLGROUP>
+        <TBODY>
+        <TR>
+          <TH class=3D"l t stacked_cell header" scope=3Dcol>
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TH class=3D"l t header top_stacked_value"=20
+              scope=3Dcol>Frequency</TH></TR>
+              <TR>
+                <TH class=3D"l t header middle_stacked_value"=20
+                scope=3Dcol>Percent</TH></TR>
+              <TR>
+                <TH class=3D"l t header middle_stacked_value" =
+scope=3Dcol>Row=20
+                Pct</TH></TR>
+              <TR>
+                <TH class=3D"l t header bottom_stacked_value" =
+scope=3Dcol>Col=20
+                =
+Pct</TH></TR></TBODY></TABLE></TH></TR></TBODY></TABLE></DIV></TD>
+    <TD>
+      <DIV align=3Dcenter>
+      <TABLE class=3Dtable borderColor=3D#c1c1c1 cellSpacing=3D0 =
+cellPadding=3D5=20
+      rules=3Dall summary=3D"Procedure Freq: Cross-Tabular Freq Table" =
+frame=3Dbox>
+        <COLGROUP>
+        <COL></COLGROUP>
+        <COLGROUP>
+        <COL>
+        <COL>
+        <COL></COLGROUP>
+        <THEAD>
+        <TR>
+          <TH class=3D"c header" colSpan=3D4=20
+            =
+scope=3Dcolgroup>Table&nbsp;of&nbsp;Gender&nbsp;by&nbsp;Complications_Y_N=
+</TH></TR>
+        <TR>
+          <TH class=3D"c b header" rowSpan=3D2 =
+scope=3Dcol>Gender(Gender)</TH>
+          <TH class=3D"c b header" colSpan=3D3=20
+            =
+scope=3Dcolgroup>Complications_Y_N(Complications<BR>Y/N)</TH></TR>
+        <TR>
+          <TH class=3D"r header" scope=3Dcol>Y</TH>
+          <TH class=3D"r header" scope=3Dcol>N</TH>
+          <TH class=3D"r header" scope=3Dcol>Total</TH></TR></THEAD>
+        <TBODY>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>F </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">54</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">29.83</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">62.79</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">50.94</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">32</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">17.68</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">37.21</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">42.67</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">86</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">47.51</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>M </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">52</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">28.73</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">54.74</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">49.06</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">43</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">23.76</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">45.26</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">57.33</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">95</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">52.49</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>Median </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>Mean </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t rowheader" scope=3Drow>St Deviation</TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data middle_stacked_value">.</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">0.00</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">0</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">0.00</TD></TR>
+              <TR>
+                <TD class=3D"r t data =
+middle_stacked_value">&nbsp;</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"l t header" scope=3Dcol>Total </TH>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">106</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">58.56</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">75</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">41.44</TD></TR></TBODY></TABLE></TD>
+          <TD class=3D"r t stacked_cell data">
+            <TABLE cellSpacing=3D0 cellPadding=3D5 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD class=3D"r t data top_stacked_value">181</TD></TR>
+              <TR>
+                <TD=20
+            class=3D"r t data =
+bottom_stacked_value">100.00</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TH class=3D"c header" colSpan=3D4=20
+            =
+scope=3Dcolgroup>Frequency&nbsp;Missing&nbsp;=3D&nbsp;4</TH></TR></TBODY>=
+</TABLE></DIV></TD></TR></TBODY></TABLE></DIV></DIV><BR></DIV></BODY></HT=
+ML>
+
+------=_NextPart_000_0000_01CFC928.26E83260
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/nboateng/AgreePlot2.png
+
+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
+F2bF0jYAAAAASUVORK5CYII=
+
+------=_NextPart_000_0000_01CFC928.26E83260--
