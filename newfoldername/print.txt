@@ -1,0 +1,84 @@
+rm(list=ls())
+library(sas7bdat)
+
+###############################################################
+#read SAS data into R
+###################################################################
+
+data2<-read.sas7bdat("C:/Users/nboateng/Desktop/st jude/PPTPmouse/treatmentgroupdata.sas7bdat", debug=FALSE)
+
+d=data2
+
+##############################################################
+###tapply function splits data(d) into indices by StudyNum 
+
+### and apply function sample to MouseRespN
+
+### match function extracts the index of  c1 in d$MouseRespN
+
+### c2 extracts the corresponding index in the meadian response
+
+## d is the pptmouse data
+
+############################################################
+
+pptmouse=function(d){
+
+c1=c()
+c2=c()
+diff=c()
+ for (i in 1:length(unique(d$StudyNum))){
+
+
+c1[i]=tapply(d$MouseRespN,d$StudyNum,function(x) sample(d$MouseRespN ,size=1,replace =TRUE))[[i]]
+
+c2[i]=d$mediangrouprespN[match(c1[i],d$MouseRespN)]
+
+
+
+diff[i]=c1[i]-c2[i]
+}
+prob=length(diff[diff==0])/length(diff)
+
+out=list(prob=prob,Deviation=diff,MouseRespN=c1,mediangrouprespN=c2)
+
+return(out)
+}
+
+
+pptmouse(d)
+
+
+
+
+##############################################
+#### simulating N times of function pptmouse
+###############################################
+
+N=1000
+rep=c()
+for(i in 1:N){
+rep[i]=pptmouse(d)$prob
+write.table(rep,file = "D:/NANA/st jude/PPTPmouse/pptoutput.txt",eol = "\n", row.names = TRUE,
+            col.names = TRUE)
+}
+
+
+v=read.table("D:/NANA/st jude/PPTPmouse/pptoutput.txt")
+
+mean(v[[1]])
+
+
+
+
+
+
+
+##############################################
+####Alternatively  simulating N times of function pptmouse
+###############################################
+
+t=replicate(N,pptmouse(d))
+
+mean(unlist(t[1,]))
+
